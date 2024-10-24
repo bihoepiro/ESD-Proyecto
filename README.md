@@ -52,8 +52,6 @@ En caso de una brecha de seguridad, el sistema cuenta con un **plan de respuesta
 ### **6.2 Notificación de Incidentes**
 En cumplimiento con las leyes de protección de datos (como el GDPR), cualquier fuga significativa de datos personales deberá ser reportada a las autoridades competentes y a los usuarios afectados en un plazo de 72 horas.
 
-Aquí te dejo el informe en formato **Markdown** con la sección de **Privacidad de los Datos** incluida, siguiendo los lineamientos que me mencionaste.
-
 ## **7. Privacidad de los Datos**
 
 ### **7.1 Recolección de Datos**
