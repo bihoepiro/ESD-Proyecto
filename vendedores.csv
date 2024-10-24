@@ -1,0 +1,20 @@
+Vendedor_ID,Nombre_Vendedor,Email,Telefono,Store,Rol,Password_Hash
+1,Allison Lloyd,stonemargaret@example.net,(512)600-2081,Lima Norte,Supervisor,$2b$12$oCp84WKAASQ/bPJFdwQO3egiUAcR8rm8xFgSUmmyiu5gx7Y3JqgDO
+2,Connie Lee,gregoryclark@example.org,225-528-3476,Lima Norte,Vendedor,$2b$12$T4yUO/BNxE7t7JvcjjuqReRxp/kg8aR2yXmbMSzY/aQwJ7Qq602la
+3,Andrew Mccormick,kaitlincunningham@example.com,474.703.3600,Lima Norte,Vendedor,$2b$12$4aX/hXVqDgDrwRov7TwMqO.LUvQ4ymxcwxWgLZ6FagpB.J0CeK/vy
+4,Steven Joseph,alexistorres@example.com,(632)259-2598x8820,Barranco,Supervisor,$2b$12$ZJuD/8oWyC/clEDfGExFRe970kkoopwJDMRQip6SuPqSDmDFAsVVG
+5,Christine Kaiser,edwardrodriguez@example.org,763.553.7452x04430,Barranco,Vendedor,$2b$12$Oml5M.EnqMRRN4wLJWyIEuEMPTOGvl1Ji9DlKJuLKj8kElrlJjI6y
+6,Eric Jackson,joshua60@example.com,2759113472,Barranco,Vendedor,$2b$12$VoTdUStm0Wq0svGRDcltYecdixgBB1VOMHVVrT8kTBXWVZkD9puLK
+7,Joseph Lawrence,tnorman@example.net,001-589-667-9107x374,Miraflores,Supervisor,$2b$12$HomXi7GfJ1aIWEhvJ3qztO.Mt6qfnMc78S182A4z7itUTImocWvoC
+8,Jesus Martin,gabriella56@example.com,001-423-586-8892x326,Miraflores,Vendedor,$2b$12$I8EBi.wQ0CpvGGA47dbCcejqmyzxrsmcrQyYsU19KSW6UxafgbUke
+9,Mary Baker,davisjessica@example.com,802-393-9369,Miraflores,Vendedor,$2b$12$3ZDbkVY.yjsHhby7PaIWvuyGabvUuRSI8Ydcx7cFOS3pvvSbGvudS
+10,Alexander Benton,nelsonrobert@example.org,001-692-620-6504x31548,San Isidro,Supervisor,$2b$12$vk9EpWu4rKpRbtVYRIx4EuzSzEIjFyy4pBKboQQBeUOqh.9YDcSim
+11,Mark Johnson,bradleysmith@example.org,389-359-3263x3268,San Isidro,Vendedor,$2b$12$Sl2X1QP3uXxXtb3p30cm.ODWk6XYE2qTgCQ/qVY8MY9fXWa3Rj2PC
+12,Scott Sullivan,jasonspence@example.net,7128863972,San Isidro,Vendedor,$2b$12$XSQ.3SUumsXipobU0J93YOCXE8TJf.ExLGKX4rZEp0BxiJetBVBLe
+13,Nicole Palmer,geraldgarner@example.org,202.394.2484x478,Surco,Supervisor,$2b$12$0VIaiFDMZBO/dIfb8oEWL.MvjoLSwrbVaikkAYt6aBdw47ukkO.Ve
+14,Megan White,pjefferson@example.net,2978243617,Surco,Vendedor,$2b$12$jnJ4X6YdmhMqdu8Xv3ErQu8JTzs0nSdGH8TkIJ1U3CHcKLZJs8DiG
+15,Jacob Bowman,theresamiller@example.org,369.730.4165,Surco,Vendedor,$2b$12$dCtRyuTPGPNg6n1EwHjofOneENmPK.0GB9wd.A8vzjuWy9cwGaC2q
+16,Jeffrey Williams,austingonzalez@example.net,(952)797-0720,La Molina,Supervisor,$2b$12$1RbBJ7uPq5d9AoAsagyOLORQCZ4y1Tmw5ftmQU7.FnhIFkmBPoU1G
+17,Rickey Lowery,scottjason@example.org,686.986.7242,La Molina,Vendedor,$2b$12$6gkmqtCKnmoM/gsEQrzQ9eCf8Mvq.vC32SFrmvmFdrlLBuu8/AS6u
+18,Autumn Kemp,moorericardo@example.net,001-281-484-6492,La Molina,Vendedor,$2b$12$yzxIlu9.pGyhJWZPkSf3quyQl3Dl1wsgNV/7mBlUdUYHUTk33nvlC
+19,Gina Salas,bmartinez@example.com,386-897-2794x2623,Admin,Administrador,$2b$12$EQUFBoBWfZyEzyYjcuhnHucbGH/.rxERyvZfVLcXfIitb6MTiKbmS
