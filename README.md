@@ -1,5 +1,6 @@
 # **Informe de Seguridad y Privacidad en el Sistema de Ventas**
 Alumna: Bihonda Epiquien Rodas
+
 Curso: Ética y Seguridad de los Datos
 ## **1. Introducción**
 Este informe documenta las medidas de seguridad implementadas en el sistema de ventas distribuido, así como estrategias de protección de datos. Además, se detallan las medidas futuras recomendadas para garantizar un sistema robusto, cumpliendo con los estándares internacionales de seguridad y privacidad.
