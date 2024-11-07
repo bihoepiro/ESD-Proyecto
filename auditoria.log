@@ -1,0 +1,282 @@
+2024-11-07 09:41:33,569 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 09:41:33,569 - [33mPress CTRL+C to quit[0m
+2024-11-07 09:41:33,572 -  * Restarting with stat
+2024-11-07 09:41:34,765 -  * Debugger is active!
+2024-11-07 09:41:34,773 -  * Debugger PIN: 138-878-770
+2024-11-07 09:42:14,718 - 127.0.0.1 - - [07/Nov/2024 09:42:14] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 09:42:33,103 - 127.0.0.1 - - [07/Nov/2024 09:42:33] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:42:43,286 - 127.0.0.1 - - [07/Nov/2024 09:42:43] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:42:45,948 - 127.0.0.1 - - [07/Nov/2024 09:42:45] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:42:48,498 - 127.0.0.1 - - [07/Nov/2024 09:42:48] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:42:56,464 - 127.0.0.1 - - [07/Nov/2024 09:42:56] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:42:59,768 - 127.0.0.1 - - [07/Nov/2024 09:42:59] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:43:09,615 - 127.0.0.1 - - [07/Nov/2024 09:43:09] "[31m[1mPOST /autenticar HTTP/1.1[0m" 403 -
+2024-11-07 09:43:14,653 - 127.0.0.1 - - [07/Nov/2024 09:43:14] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 09:43:27,412 - 127.0.0.1 - - [07/Nov/2024 09:43:27] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:44:34,730 - 127.0.0.1 - - [07/Nov/2024 09:44:34] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:44:37,910 - 127.0.0.1 - - [07/Nov/2024 09:44:37] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:46:21,648 - 127.0.0.1 - - [07/Nov/2024 09:46:21] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:46:23,738 - 127.0.0.1 - - [07/Nov/2024 09:46:23] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:46:45,114 - 127.0.0.1 - - [07/Nov/2024 09:46:45] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:46:55,579 - 127.0.0.1 - - [07/Nov/2024 09:46:55] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:48:43,264 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\app.py', reloading
+2024-11-07 09:48:43,429 -  * Restarting with stat
+2024-11-07 09:48:44,424 -  * Debugger is active!
+2024-11-07 09:48:44,429 -  * Debugger PIN: 138-878-770
+2024-11-07 09:48:58,966 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 09:48:58,967 - [33mPress CTRL+C to quit[0m
+2024-11-07 09:48:58,969 -  * Restarting with stat
+2024-11-07 09:48:59,998 -  * Debugger is active!
+2024-11-07 09:49:00,005 -  * Debugger PIN: 138-878-770
+2024-11-07 09:49:11,454 - 127.0.0.1 - - [07/Nov/2024 09:49:11] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 09:49:32,656 - 127.0.0.1 - - [07/Nov/2024 09:49:32] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:51:07,799 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\app.py', reloading
+2024-11-07 09:51:07,906 -  * Restarting with stat
+2024-11-07 09:51:45,841 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 09:51:45,841 - [33mPress CTRL+C to quit[0m
+2024-11-07 09:51:45,843 -  * Restarting with stat
+2024-11-07 09:51:46,812 -  * Debugger is active!
+2024-11-07 09:51:46,817 -  * Debugger PIN: 138-878-770
+2024-11-07 09:52:05,077 - 127.0.0.1 - - [07/Nov/2024 09:52:05] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 09:52:13,183 - 127.0.0.1 - - [07/Nov/2024 09:52:13] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 09:56:27,888 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\app.py', reloading
+2024-11-07 09:56:28,004 -  * Restarting with stat
+2024-11-07 09:57:26,420 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 09:57:26,420 - [33mPress CTRL+C to quit[0m
+2024-11-07 09:57:26,422 -  * Restarting with stat
+2024-11-07 09:57:27,589 -  * Debugger is active!
+2024-11-07 09:57:27,593 -  * Debugger PIN: 138-878-770
+2024-11-07 09:57:44,653 - 127.0.0.1 - - [07/Nov/2024 09:57:44] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 09:57:52,094 - 127.0.0.1 - - [07/Nov/2024 09:57:52] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 10:01:41,579 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\interfaz.py', reloading
+2024-11-07 10:01:41,694 -  * Restarting with stat
+2024-11-07 10:01:43,160 -  * Debugger is active!
+2024-11-07 10:01:43,164 -  * Debugger PIN: 138-878-770
+2024-11-07 10:01:47,584 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\interfaz.py', reloading
+2024-11-07 10:01:47,752 -  * Restarting with stat
+2024-11-07 10:01:49,008 -  * Debugger is active!
+2024-11-07 10:01:49,012 -  * Debugger PIN: 138-878-770
+2024-11-07 10:02:12,413 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\interfaz.py', reloading
+2024-11-07 10:02:12,503 -  * Restarting with stat
+2024-11-07 10:02:13,593 -  * Debugger is active!
+2024-11-07 10:02:13,597 -  * Debugger PIN: 138-878-770
+2024-11-07 10:02:27,367 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 10:02:27,367 - [33mPress CTRL+C to quit[0m
+2024-11-07 10:02:27,371 -  * Restarting with stat
+2024-11-07 10:02:28,630 -  * Debugger is active!
+2024-11-07 10:02:28,635 -  * Debugger PIN: 138-878-770
+2024-11-07 10:02:39,923 - 127.0.0.1 - - [07/Nov/2024 10:02:39] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 10:02:48,796 - 127.0.0.1 - - [07/Nov/2024 10:02:48] "[31m[1mPOST /verificar_2fa HTTP/1.1[0m" 403 -
+2024-11-07 10:03:10,467 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 10:03:10,467 - [33mPress CTRL+C to quit[0m
+2024-11-07 10:03:10,471 -  * Restarting with stat
+2024-11-07 10:03:11,718 -  * Debugger is active!
+2024-11-07 10:03:11,723 -  * Debugger PIN: 138-878-770
+2024-11-07 10:03:35,104 - 127.0.0.1 - - [07/Nov/2024 10:03:35] "[31m[1mPOST /autenticar HTTP/1.1[0m" 403 -
+2024-11-07 10:03:37,912 - 127.0.0.1 - - [07/Nov/2024 10:03:37] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 10:03:45,765 - 127.0.0.1 - - [07/Nov/2024 10:03:45] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 10:03:48,322 - 127.0.0.1 - - [07/Nov/2024 10:03:48] "[33mGET /ventas/Barranco?vendedor_id=1 HTTP/1.1[0m" 404 -
+2024-11-07 10:03:51,386 - 127.0.0.1 - - [07/Nov/2024 10:03:51] "[33mGET /ventas/Lima%20Norte?vendedor_id=1 HTTP/1.1[0m" 404 -
+2024-11-07 10:03:55,055 - 127.0.0.1 - - [07/Nov/2024 10:03:55] "[33mGET /ventas/Surco?vendedor_id=1 HTTP/1.1[0m" 404 -
+2024-11-07 10:08:54,048 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\interfaz.py', reloading
+2024-11-07 10:08:54,427 -  * Restarting with stat
+2024-11-07 10:08:55,891 -  * Debugger is active!
+2024-11-07 10:08:55,897 -  * Debugger PIN: 138-878-770
+2024-11-07 10:09:06,526 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\interfaz.py', reloading
+2024-11-07 10:09:06,724 -  * Restarting with stat
+2024-11-07 10:09:07,888 -  * Debugger is active!
+2024-11-07 10:09:07,891 -  * Debugger PIN: 138-878-770
+2024-11-07 10:10:08,174 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\interfaz.py', reloading
+2024-11-07 10:10:08,285 -  * Restarting with stat
+2024-11-07 10:10:09,334 -  * Debugger is active!
+2024-11-07 10:10:09,339 -  * Debugger PIN: 138-878-770
+2024-11-07 10:10:25,942 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 10:10:25,942 - [33mPress CTRL+C to quit[0m
+2024-11-07 10:10:25,945 -  * Restarting with stat
+2024-11-07 10:10:27,148 -  * Debugger is active!
+2024-11-07 10:10:27,153 -  * Debugger PIN: 138-878-770
+2024-11-07 10:10:45,642 - 127.0.0.1 - - [07/Nov/2024 10:10:45] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 10:11:01,569 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\app.py', reloading
+2024-11-07 10:11:01,693 -  * Restarting with stat
+2024-11-07 10:11:03,632 -  * Debugger is active!
+2024-11-07 10:11:03,643 -  * Debugger PIN: 138-878-770
+2024-11-07 10:11:07,103 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 10:11:07,104 - [33mPress CTRL+C to quit[0m
+2024-11-07 10:11:07,105 -  * Restarting with stat
+2024-11-07 10:11:08,845 -  * Debugger is active!
+2024-11-07 10:11:08,850 -  * Debugger PIN: 138-878-770
+2024-11-07 10:11:36,553 - 127.0.0.1 - - [07/Nov/2024 10:11:36] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 10:11:46,674 - 127.0.0.1 - - [07/Nov/2024 10:11:46] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 10:11:52,093 - Acceso a ventas: Vendedor 1 solicitó ver ventas de San Isidro
+2024-11-07 10:11:52,096 - 127.0.0.1 - - [07/Nov/2024 10:11:52] "GET /ventas/San%20Isidro?vendedor_id=1 HTTP/1.1" 200 -
+2024-11-07 10:12:48,907 - 127.0.0.1 - - [07/Nov/2024 10:12:48] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 10:12:56,208 - 127.0.0.1 - - [07/Nov/2024 10:12:56] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 10:12:59,100 - 127.0.0.1 - - [07/Nov/2024 10:12:59] "[31m[1mGET /ventas/Miraflores?vendedor_id=2 HTTP/1.1[0m" 403 -
+2024-11-07 10:13:02,390 - Acceso a ventas: Vendedor 2 solicitó ver ventas de Lima Norte
+2024-11-07 10:13:02,392 - 127.0.0.1 - - [07/Nov/2024 10:13:02] "GET /ventas/Lima%20Norte?vendedor_id=2 HTTP/1.1" 200 -
+2024-11-07 10:13:18,407 - 127.0.0.1 - - [07/Nov/2024 10:13:18] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 10:13:25,641 - 127.0.0.1 - - [07/Nov/2024 10:13:25] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 10:14:04,342 - 127.0.0.1 - - [07/Nov/2024 10:14:04] "[31m[1mPOST /agregar_venta HTTP/1.1[0m" 403 -
+2024-11-07 10:14:23,065 - 127.0.0.1 - - [07/Nov/2024 10:14:23] "[35m[1mPOST /agregar_venta HTTP/1.1[0m" 500 -
+2024-11-07 10:15:00,370 - Acceso a ventas: Vendedor 1 solicitó ver ventas de La Molina
+2024-11-07 10:15:00,373 - 127.0.0.1 - - [07/Nov/2024 10:15:00] "GET /ventas/La%20Molina?vendedor_id=1 HTTP/1.1" 200 -
+2024-11-07 10:16:06,534 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\app.py', reloading
+2024-11-07 10:16:06,751 -  * Restarting with stat
+2024-11-07 10:16:08,371 -  * Debugger is active!
+2024-11-07 10:16:08,377 -  * Debugger PIN: 138-878-770
+2024-11-07 10:16:12,258 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 10:16:12,258 - [33mPress CTRL+C to quit[0m
+2024-11-07 10:16:12,260 -  * Restarting with stat
+2024-11-07 10:16:13,553 -  * Debugger is active!
+2024-11-07 10:16:13,559 -  * Debugger PIN: 138-878-770
+2024-11-07 10:16:24,368 - 127.0.0.1 - - [07/Nov/2024 10:16:24] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 10:16:36,601 - 127.0.0.1 - - [07/Nov/2024 10:16:36] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 10:16:55,451 - Venta agregada: Vendedor 1 agregó una venta para la sede Lima Norte
+2024-11-07 10:16:55,451 - 127.0.0.1 - - [07/Nov/2024 10:16:55] "POST /agregar_venta HTTP/1.1" 200 -
+2024-11-07 10:17:28,812 - Acceso a ventas: Vendedor 1 solicitó ver ventas de Lima Norte
+2024-11-07 10:17:28,817 - 127.0.0.1 - - [07/Nov/2024 10:17:28] "GET /ventas/Lima%20Norte?vendedor_id=1 HTTP/1.1" 200 -
+2024-11-07 10:19:47,273 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\app.py', reloading
+2024-11-07 10:19:47,476 -  * Restarting with stat
+2024-11-07 10:19:50,630 -  * Debugger is active!
+2024-11-07 10:19:50,638 -  * Debugger PIN: 138-878-770
+2024-11-07 10:22:24,189 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 10:22:24,189 - [33mPress CTRL+C to quit[0m
+2024-11-07 10:22:24,194 -  * Restarting with stat
+2024-11-07 10:22:26,212 -  * Debugger is active!
+2024-11-07 10:22:26,219 -  * Debugger PIN: 138-878-770
+2024-11-07 10:22:43,438 - 127.0.0.1 - - [07/Nov/2024 10:22:43] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 10:23:06,244 - 127.0.0.1 - - [07/Nov/2024 10:23:06] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 10:23:11,560 - 127.0.0.1 - - [07/Nov/2024 10:23:11] "[31m[1mGET /ventas/Miraflores?vendedor_id=1 HTTP/1.1[0m" 403 -
+2024-11-07 10:23:14,292 - 127.0.0.1 - - [07/Nov/2024 10:23:14] "[31m[1mGET /ventas/Surco?vendedor_id=1 HTTP/1.1[0m" 403 -
+2024-11-07 10:23:17,018 - Acceso a ventas: Vendedor 1 solicitó ver ventas de Lima Norte
+2024-11-07 10:23:17,021 - 127.0.0.1 - - [07/Nov/2024 10:23:17] "GET /ventas/Lima%20Norte?vendedor_id=1 HTTP/1.1" 200 -
+2024-11-07 14:57:33,115 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\app.py', reloading
+2024-11-07 14:57:33,399 -  * Restarting with stat
+2024-11-07 14:58:17,912 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 14:58:17,912 - [33mPress CTRL+C to quit[0m
+2024-11-07 14:58:17,915 -  * Restarting with stat
+2024-11-07 15:00:17,397 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 15:00:17,397 - [33mPress CTRL+C to quit[0m
+2024-11-07 15:00:17,400 -  * Restarting with stat
+2024-11-07 15:00:19,252 -  * Debugger is active!
+2024-11-07 15:00:19,261 -  * Debugger PIN: 138-878-770
+2024-11-07 15:00:51,294 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 15:00:51,294 - [33mPress CTRL+C to quit[0m
+2024-11-07 15:00:51,295 -  * Restarting with stat
+2024-11-07 15:00:52,295 -  * Debugger is active!
+2024-11-07 15:00:52,299 -  * Debugger PIN: 138-878-770
+2024-11-07 15:04:18,460 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 15:04:18,461 - [33mPress CTRL+C to quit[0m
+2024-11-07 15:04:18,467 -  * Restarting with stat
+2024-11-07 15:04:22,839 -  * Debugger is active!
+2024-11-07 15:04:22,850 -  * Debugger PIN: 138-878-770
+2024-11-07 15:04:35,041 - 127.0.0.1 - - [07/Nov/2024 15:04:35] "[31m[1mPOST /autenticar HTTP/1.1[0m" 403 -
+2024-11-07 15:06:19,465 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 15:06:19,466 - [33mPress CTRL+C to quit[0m
+2024-11-07 15:06:19,468 -  * Restarting with stat
+2024-11-07 15:06:49,415 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 15:06:49,415 - [33mPress CTRL+C to quit[0m
+2024-11-07 15:06:49,417 -  * Restarting with stat
+2024-11-07 15:06:53,047 -  * Debugger is active!
+2024-11-07 15:06:53,050 -  * Debugger PIN: 138-878-770
+2024-11-07 15:07:06,240 - 127.0.0.1 - - [07/Nov/2024 15:07:06] "[31m[1mPOST /autenticar HTTP/1.1[0m" 403 -
+2024-11-07 15:07:20,546 - 127.0.0.1 - - [07/Nov/2024 15:07:20] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 15:07:32,403 - 127.0.0.1 - - [07/Nov/2024 15:07:32] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 15:07:36,283 - 127.0.0.1 - - [07/Nov/2024 15:07:36] "GET /perfil/1 HTTP/1.1" 200 -
+2024-11-07 15:07:44,959 - 127.0.0.1 - - [07/Nov/2024 15:07:44] "PUT /perfil/1 HTTP/1.1" 200 -
+2024-11-07 16:19:27,453 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:19:27,453 - [33mPress CTRL+C to quit[0m
+2024-11-07 16:19:27,455 -  * Restarting with stat
+2024-11-07 16:19:31,478 -  * Debugger is active!
+2024-11-07 16:19:31,482 -  * Debugger PIN: 138-878-770
+2024-11-07 16:19:48,592 - 127.0.0.1 - - [07/Nov/2024 16:19:48] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 16:19:54,935 - 127.0.0.1 - - [07/Nov/2024 16:19:54] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 16:19:57,928 - 127.0.0.1 - - [07/Nov/2024 16:19:57] "[33mGET /exportar_datos/1 HTTP/1.1[0m" 404 -
+2024-11-07 16:20:02,503 - 127.0.0.1 - - [07/Nov/2024 16:20:02] "[33mGET /exportar_datos/1 HTTP/1.1[0m" 404 -
+2024-11-07 16:20:14,609 - 127.0.0.1 - - [07/Nov/2024 16:20:14] "GET /perfil/1 HTTP/1.1" 200 -
+2024-11-07 16:20:18,562 - 127.0.0.1 - - [07/Nov/2024 16:20:18] "PUT /perfil/1 HTTP/1.1" 200 -
+2024-11-07 16:20:21,609 - 127.0.0.1 - - [07/Nov/2024 16:20:21] "GET /perfil/1 HTTP/1.1" 200 -
+2024-11-07 16:20:31,761 - 127.0.0.1 - - [07/Nov/2024 16:20:31] "GET /perfil/1 HTTP/1.1" 200 -
+2024-11-07 16:20:33,260 - 127.0.0.1 - - [07/Nov/2024 16:20:33] "[31m[1mGET /ventas/Barranco?vendedor_id=1 HTTP/1.1[0m" 403 -
+2024-11-07 16:20:43,120 - 127.0.0.1 - - [07/Nov/2024 16:20:43] "[31m[1mPOST /agregar_venta HTTP/1.1[0m" 403 -
+2024-11-07 16:20:54,553 - 127.0.0.1 - - [07/Nov/2024 16:20:54] "[33mGET /exportar_datos/1 HTTP/1.1[0m" 404 -
+2024-11-07 16:20:55,963 - 127.0.0.1 - - [07/Nov/2024 16:20:55] "GET /perfil/1 HTTP/1.1" 200 -
+2024-11-07 16:26:06,758 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:26:06,758 - [33mPress CTRL+C to quit[0m
+2024-11-07 16:26:06,760 -  * Restarting with stat
+2024-11-07 16:26:09,509 -  * Debugger is active!
+2024-11-07 16:26:09,512 -  * Debugger PIN: 138-878-770
+2024-11-07 16:26:20,297 - 127.0.0.1 - - [07/Nov/2024 16:26:20] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 16:26:30,587 - 127.0.0.1 - - [07/Nov/2024 16:26:30] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 16:26:34,572 - 127.0.0.1 - - [07/Nov/2024 16:26:34] "GET /descargar_datos/1 HTTP/1.1" 200 -
+2024-11-07 16:26:46,458 - 127.0.0.1 - - [07/Nov/2024 16:26:46] "GET /descargar_datos/1 HTTP/1.1" 200 -
+2024-11-07 16:32:36,907 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:32:36,908 - [33mPress CTRL+C to quit[0m
+2024-11-07 16:32:36,910 -  * Restarting with stat
+2024-11-07 16:32:39,601 -  * Debugger is active!
+2024-11-07 16:32:39,605 -  * Debugger PIN: 138-878-770
+2024-11-07 16:32:52,344 - 127.0.0.1 - - [07/Nov/2024 16:32:52] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 16:32:59,496 - 127.0.0.1 - - [07/Nov/2024 16:32:59] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 16:33:05,360 - 127.0.0.1 - - [07/Nov/2024 16:33:05] "[35m[1mGET /descargar_datos/1 HTTP/1.1[0m" 500 -
+2024-11-07 16:34:58,061 - 127.0.0.1 - - [07/Nov/2024 16:34:58] "[35m[1mGET /descargar_datos/1 HTTP/1.1[0m" 500 -
+2024-11-07 16:35:10,314 - 127.0.0.1 - - [07/Nov/2024 16:35:10] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 16:35:21,394 - 127.0.0.1 - - [07/Nov/2024 16:35:21] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 16:35:22,390 - 127.0.0.1 - - [07/Nov/2024 16:35:22] "[35m[1mGET /descargar_datos/1 HTTP/1.1[0m" 500 -
+2024-11-07 16:35:44,766 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\app.py', reloading
+2024-11-07 16:35:44,879 -  * Restarting with stat
+2024-11-07 16:35:54,557 -  * Debugger is active!
+2024-11-07 16:35:54,560 -  * Debugger PIN: 138-878-770
+2024-11-07 16:35:54,832 - 127.0.0.1 - - [07/Nov/2024 16:35:54] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 16:36:06,416 - 127.0.0.1 - - [07/Nov/2024 16:36:06] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 16:36:09,507 - 127.0.0.1 - - [07/Nov/2024 16:36:09] "[35m[1mGET /descargar_datos/1 HTTP/1.1[0m" 500 -
+2024-11-07 16:36:39,097 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:36:39,097 - [33mPress CTRL+C to quit[0m
+2024-11-07 16:36:39,099 -  * Restarting with stat
+2024-11-07 16:43:03,751 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:43:03,751 - [33mPress CTRL+C to quit[0m
+2024-11-07 16:43:03,754 -  * Restarting with stat
+2024-11-07 16:43:40,814 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:43:40,815 - [33mPress CTRL+C to quit[0m
+2024-11-07 16:43:40,818 -  * Restarting with stat
+2024-11-07 16:46:31,408 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:46:31,408 - [33mPress CTRL+C to quit[0m
+2024-11-07 16:46:31,409 -  * Restarting with stat
+2024-11-07 16:47:54,255 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:47:54,255 - [33mPress CTRL+C to quit[0m
+2024-11-07 16:47:54,256 -  * Restarting with stat
+2024-11-07 16:47:57,988 -  * Debugger is active!
+2024-11-07 16:47:57,991 -  * Debugger PIN: 138-878-770
+2024-11-07 16:48:06,695 - 127.0.0.1 - - [07/Nov/2024 16:48:06] "[35m[1mPOST /autenticar HTTP/1.1[0m" 500 -
+2024-11-07 16:48:13,928 - 127.0.0.1 - - [07/Nov/2024 16:48:13] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 16:48:23,410 - 127.0.0.1 - - [07/Nov/2024 16:48:23] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 16:48:25,803 - 127.0.0.1 - - [07/Nov/2024 16:48:25] "GET /descargar_datos/1 HTTP/1.1" 200 -
+2024-11-07 16:50:45,059 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\cifrar_datos.py', reloading
+2024-11-07 16:50:45,153 -  * Restarting with stat
+2024-11-07 16:50:49,240 -  * Debugger is active!
+2024-11-07 16:50:49,244 -  * Debugger PIN: 138-878-770
+2024-11-07 16:51:47,081 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\cifrar_datos.py', reloading
+2024-11-07 16:51:47,208 -  * Restarting with stat
