@@ -4,7 +4,7 @@
 **Curso:** Ética y Seguridad de los Datos  
 
 ## 1. Introducción
-Este informe documenta las medidas de seguridad y privacidad implementadas en el sistema de ventas, con el objetivo de proteger los datos sensibles de los usuarios y asegurar el cumplimiento de las mejores prácticas de seguridad. En esta fase, se ha priorizado la implementación de una autenticación de dos factores (2FA) y la gestión de accesos para proteger la integridad y confidencialidad de los datos.
+Este informe documenta las medidas de seguridad y privacidad implementadas en el sistema de ventas, con el objetivo de proteger los datos sensibles de los usuarios y asegurar el cumplimiento de las mejores prácticas de seguridad.
 
 ## 2. Valor de los Datos en el Caso de Negocio
 En este sistema de ventas, los datos generan valor al permitir la **toma de decisiones basada en hechos**, como la gestión eficiente de inventarios y el análisis de ventas. Para medir este valor objetivamente, se implementarán **KPIs (Indicadores Clave de Desempeño)** como:
