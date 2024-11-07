@@ -1,11 +1,12 @@
-# **Informe de Seguridad y Privacidad en el Sistema de Ventas**
-Alumna: Bihonda Epiquien Rodas
+# Informe de Seguridad y Privacidad en el Sistema de Ventas
 
-Curso: Ética y Seguridad de los Datos
-## **1. Introducción**
-Este informe documenta las medidas de seguridad implementadas en el sistema de ventas distribuido, así como estrategias de protección de datos. Además, se detallan las medidas futuras recomendadas para garantizar un sistema robusto, cumpliendo con los estándares internacionales de seguridad y privacidad.
+**Alumna:** Bihonda Epiquien Rodas  
+**Curso:** Ética y Seguridad de los Datos  
 
-## **2. Valor de los Datos en el Caso de Negocio**
+## 1. Introducción
+Este informe documenta las medidas de seguridad y privacidad implementadas en el sistema de ventas, con el objetivo de proteger los datos sensibles de los usuarios y asegurar el cumplimiento de las mejores prácticas de seguridad. En esta fase, se ha priorizado la implementación de una autenticación de dos factores (2FA) y la gestión de accesos para proteger la integridad y confidencialidad de los datos.
+
+## 2. Valor de los Datos en el Caso de Negocio
 En este sistema de ventas, los datos generan valor al permitir la **toma de decisiones basada en hechos**, como la gestión eficiente de inventarios y el análisis de ventas. Para medir este valor objetivamente, se implementarán **KPIs (Indicadores Clave de Desempeño)** como:
 
 - **Ventas semanales por sede**: Indicador que permite analizar el rendimiento de cada tienda.
@@ -20,27 +21,32 @@ La **Ley N° 29733 (Ley de Protección de Datos Personales del Perú)** establec
 ### **3.2 Cumplimiento de Estándares Internacionales**
 En el sistema, las prácticas se alinean con estándares como el **GDPR** (Reglamento General de Protección de Datos), que exige el consentimiento explícito de los usuarios y el derecho a acceder y eliminar sus datos personales.
 
-## **4. Medidas de Protección de Datos en Reposo y Transporte**
+## 4. Medidas de Seguridad y Protección de Datos
 
-### **4.1 Encriptación**
-Los datos sensibles del sistema están encriptados usando **bcrypt** para contraseñas, y en futuras fases, se aplicará **AES (Advanced Encryption Standard)** para encriptar los datos en reposo (datos almacenados) y en tránsito (datos que viajan entre cliente y servidor). Esto asegura que la confidencialidad de los datos sea mantenida incluso si se produce un acceso no autorizado a la base de datos.
+### 4.1 Autenticación de Dos Factores (2FA)
+Para garantizar que solo usuarios autorizados accedan al sistema, se ha implementado un mecanismo de autenticación de dos factores (2FA). Este proceso asegura que, además de la contraseña, los usuarios deban verificar su identidad a través de un código temporal. Esta medida proporciona una capa de seguridad adicional, especialmente para usuarios con roles administrativos y de supervisión, reduciendo el riesgo de accesos no autorizados.
 
-### **4.2 Hashing**
-Además de la encriptación, las contraseñas se almacenan como hashes criptográficos utilizando **bcrypt**, lo que asegura que incluso si una base de datos es comprometida, las contraseñas no pueden ser revertidas a su formato original.
+### 4.2 Encriptación y Hashing
+Las contraseñas de los usuarios se protegen mediante **hashing** con el algoritmo bcrypt, una técnica que asegura que las contraseñas no puedan ser revertidas a su formato original. Esta protección es fundamental para garantizar la confidencialidad de las credenciales de acceso, incluso en caso de una brecha de seguridad en la base de datos.
 
-### **4.3 Gestión de Accesos**
-La gestión de accesos es clave en este sistema. Solo los **vendedores** pueden agregar ventas, mientras que los **supervisores** tienen permisos adicionales para revisar y modificar datos de su tienda. Los **administradores** tienen acceso completo a todos los datos. Esta separación de roles sigue las mejores prácticas de **privilegio mínimo**, donde cada usuario solo tiene acceso a lo necesario para realizar sus funciones.
+### 4.3 Gestión de Accesos Basada en Roles
+El sistema restringe el acceso a los datos en función del rol del usuario:
+- **Vendedores:** Pueden agregar ventas para su tienda correspondiente.
+- **Supervisores:** Tienen permisos adicionales para revisar los datos de ventas de su tienda.
+- **Administradores:** Pueden acceder y gestionar los datos de todas las tiendas.  
 
-### **4.4 Registros de Auditoría (Logs)** 
-Se implementarán **registros de auditoría** para monitorear todas las actividades críticas del sistema, como accesos, modificaciones, y eliminaciones de datos. Estos registros permitirán detectar y responder rápidamente a actividades sospechosas, garantizando la integridad del sistema.
+Este control de acceso garantiza que cada usuario solo acceda a la información necesaria para cumplir con sus responsabilidades, minimizando el riesgo de exposición de datos.
 
-## **5. Estrategias de Uso Seguro de los Datos**
+## 5. Estrategias de Privacidad de los Datos
 
-### **5.1 Políticas y Procedimientos**
-Las políticas de uso seguro de datos están basadas en el principio de **privilegio mínimo**, lo que asegura que cada usuario solo tiene acceso a la información necesaria para realizar su trabajo. Además, se establecerán **procedimientos formales** para la recolección, almacenamiento y eliminación de datos sensibles, asegurando que todo proceso esté documentado y alineado con los estándares internacionales.
+### 5.1 Consentimiento de Privacidad
+Al acceder al sistema, los usuarios otorgan su consentimiento para el uso de sus datos personales exclusivamente para la gestión y análisis de ventas. Esta práctica asegura que los usuarios estén informados sobre el uso de su información.
 
-### **5.2 Concientización y Formación del Equipo**
-En la próxima fase, se implementará un programa de **concientización de seguridad** para todo el personal que tenga acceso al sistema. Este programa incluirá formación sobre **mejores prácticas de seguridad**, tales como la creación de contraseñas seguras y la identificación de intentos de phishing. La educación del equipo es esencial para mantener la seguridad, dado que muchas brechas de seguridad provienen de errores humanos.
+### 5.2 Anonimización de Datos
+Para proteger la identidad de los individuos en los análisis de ventas, los correos electrónicos y otros datos sensibles pueden ser **anonimizados**. Esto asegura que los datos personales no se expongan durante los procesos de análisis, protegiendo la privacidad de los usuarios.
+
+### 5.3 Política de Privacidad
+La política de privacidad del sistema informa a los usuarios sobre las prácticas de seguridad y sus derechos respecto a sus datos personales. Incluye información sobre los procesos de gestión del consentimiento, el acceso a sus datos y el derecho a la eliminación de la cuenta.
 
 ## **6. Plan de Respuesta ante Incidentes de Seguridad**
 
@@ -54,27 +60,16 @@ En caso de una brecha de seguridad, el sistema cuenta con un **plan de respuesta
 ### **6.2 Notificación de Incidentes**
 En cumplimiento con las leyes de protección de datos (como el GDPR), cualquier fuga significativa de datos personales deberá ser reportada a las autoridades competentes y a los usuarios afectados en un plazo de 72 horas.
 
-## **7. Privacidad de los Datos**
+## 7. Recomendaciones para Fortalecer la Seguridad
 
-### **7.1 Recolección de Datos**
-La recolección de datos está limitada a la información necesaria para las operaciones del sistema de ventas. Solo se recopilan datos esenciales de los usuarios y clientes, como nombres y registros de ventas, respetando los principios de minimización de datos del **GDPR**.
+### 7.1 Encriptación de Datos Sensibles
+En futuras fases, se recomienda aplicar encriptación avanzada (por ejemplo, AES) para todos los datos sensibles en reposo y en tránsito, asegurando que cualquier información comprometida se mantenga inaccesible para usuarios no autorizados.
 
-### **7.2 Gestión del Consentimiento**
-Se implementará un sistema de gestión del consentimiento que permitirá a los usuarios otorgar su consentimiento explícito antes de que sus datos sean recolectados o procesados. Este sistema también permitirá que los usuarios puedan retirar su consentimiento y solicitar la eliminación de sus datos cuando lo deseen, cumpliendo con los requisitos del GDPR y la **Ley Peruana de Protección de Datos**.
+### 7.2 Auditoría de Actividades
+Implementar registros de auditoría detallados para monitorear las actividades de los usuarios en el sistema permitiría detectar comportamientos inusuales y prevenir posibles accesos indebidos a la información.
 
-### **7.3 Anonimización de Datos**
-En caso de que los datos sean utilizados para fines de análisis o reportes, se aplicarán técnicas de **anonimización** para que no sea posible identificar a los individuos. Esto asegura que los datos personales no se expongan en procesos secundarios de análisis o en investigaciones de mercado.
+### 7.3 Concientización sobre Seguridad
+Se recomienda un programa de capacitación para los usuarios con acceso al sistema, donde se refuercen prácticas de seguridad, como el uso de contraseñas fuertes y la identificación de intentos de phishing.
 
-## **8. Recomendaciones de Protección de Datos Futura**
-
-### **8.1 Segmentación de la Red**
-Para evitar que una brecha en una parte del sistema comprometa a todo el entorno, se implementará la **segmentación de la red**, asegurando que cada tienda opere en una red separada y que los datos críticos no puedan ser accedidos desde redes no seguras.
-
-### **8.2 Doble Factor de Autenticación**
-Como se mencionó, la implementación de un sistema de **doble autenticación** es una medida clave que mejorará significativamente la seguridad, especialmente para los administradores y supervisores.
-
-### **8.3 Cifrado Extremo a Extremo**
-Se recomienda implementar **cifrado extremo a extremo** en toda la comunicación entre los clientes y el servidor, asegurando que todos los datos en tránsito estén protegidos contra interceptaciones.
-
-## **9. Conclusión**
-El sistema de ventas ha implementado medidas clave en esta primera fase, incluyendo control de acceso basado en roles y encriptación de contraseñas, lo que garantiza la protección de los datos más sensibles. En las fases siguientes, se ampliará la seguridad mediante la implementación de encriptación de datos sensibles, doble autenticación, auditorías y backups. Estas medidas asegurarán el cumplimiento con normativas locales e internacionales, protegiendo así la confidencialidad, integridad y disponibilidad de los datos.
+## 8. Conclusión
+En esta fase del sistema de ventas, se han implementado medidas clave para garantizar la seguridad y privacidad de los datos, incluyendo la autenticación de dos factores y el control de acceso basado en roles. Estas prácticas fortalecen la protección de la información, asegurando un entorno seguro para la gestión de ventas y cumpliendo con las mejores prácticas de seguridad de datos.
