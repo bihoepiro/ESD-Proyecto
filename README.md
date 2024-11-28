@@ -61,7 +61,7 @@ En el análisis de ventas por ubicación, se observa que algunas tiendas venden 
 
 - Tiendas ubicadas en zonas comerciales de alto tráfico o en áreas con mayor poder adquisitivo pueden tener más ventas debido a la mayor afluencia de clientes.
 - La competencia o popularidad de las marcas o productos puede ser diferente en cada región, lo que impacta directamente en las ventas.
-![Distribución de Ventas por Ubicación de Tienda](myplot2.png)
+![Distribución de Ventas por Ubicación de Tienda](myplot.png)
 
 #### **7.2.2 Distribución de Ventas por Rol (Supervisor vs Vendedor)**
 En el análisis de ventas por rol, no se observan diferencias significativas entre las ventas de supervisores y vendedores. Ambos grupos parecen tener un rendimiento similar en términos de ventas semanales, lo que sugiere que el rol no influye significativamente en el desempeño de ventas.
@@ -81,7 +81,7 @@ En el análisis de ventas por edad, no se encontró una correlación** significa
 - La habilidad de ventas y el desempeño frente al clientes pueden ser más determinantes que la edad del vendedor.
 - El sistema de ventas puede estar estructurado de tal manera que no favorezca a los vendedores más jóvenes o más experimentados.
 
-![Distribución de Ventas por Edad](myplot2.png)
+![Distribución de Ventas por Edad](myplot.png)
 
 
 
