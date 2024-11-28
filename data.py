@@ -7,7 +7,6 @@ fake = Faker()
 stores = ['Lima Norte', 'Barranco', 'Miraflores', 'San Isidro', 'Surco', 'La Molina']
 weeks = pd.date_range(start="2023-01-01", periods=52, freq='W')
 holiday_flags = [0, 1]
-
 vendedor_data = []
 vendedor_id_counter = 1
 supervisores = []
@@ -21,7 +20,11 @@ for store in stores:
             'Email': fake.email(),
             'Telefono': fake.phone_number(),
             'Store': store,
-            'Rol': 'Supervisor' if i == 0 else 'Vendedor'
+            'Rol': 'Supervisor' if i == 0 else 'Vendedor',
+            'Direccion': fake.address(),  # Dirección
+            'Fecha_Nacimiento': fake.date_of_birth(minimum_age=18, maximum_age=65),  # Fecha de nacimiento
+            'DNI': fake.ssn(),  # DNI o número de identificación
+            'Historial_Salud': fake.random_element(elements=('Saludable', 'Enfermedad crónica', 'Problemas de visión', 'Hipertensión'))  # Historial de salud
         }
         if i == 0:
             supervisores.append(vendedor_id_counter)
@@ -34,7 +37,11 @@ administrador = {
     'Email': fake.email(),
     'Telefono': fake.phone_number(),
     'Store': 'Admin',
-    'Rol': 'Administrador'
+    'Rol': 'Administrador',
+    'Direccion': fake.address(),
+    'Fecha_Nacimiento': fake.date_of_birth(minimum_age=18, maximum_age=65),
+    'DNI': fake.ssn(),
+    'Historial_Salud': fake.random_element(elements=('Saludable', 'Enfermedad crónica', 'Problemas de visión', 'Hipertensión'))
 }
 vendedor_data.append(administrador)
 administrador_id = vendedor_id_counter
@@ -62,6 +69,5 @@ for store in stores:
 
 sales_df = pd.DataFrame(sales_data)
 
-# Guardar Data
 vendedor_df.to_csv('vendedores.csv', index=False)
 sales_df.to_csv('sales_data.csv', index=False)

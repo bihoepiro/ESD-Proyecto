@@ -1,20 +1,39 @@
-Vendedor_ID,Nombre_Vendedor,Email,Telefono,Store,Rol,Password_Hash
-1,Allison Lloyd,stonemargaret@example.net,gAAAAABnLTbABY-YJlSLEFoBOiMUytWD9hQl7uimlsvMEfLULEpAMvxDu1i-bDv08_REU5PJhIctm5WQlH0vRAWWmvWMAR2M9g==,Lima Norte,Supervisor,$2b$12$oCp84WKAASQ/bPJFdwQO3egiUAcR8rm8xFgSUmmyiu5gx7Y3JqgDO
-2,Connie Lee,gregoryclark@example.org,gAAAAABnLTbAtAeBqpLNzABcMju30-UCp0avIVWAApoS2CZyqfguoh99bm85c2AQIuZhhUivQVH2w0Bsyq-BFYmMVljSQTd99A==,Lima Norte,Vendedor,$2b$12$T4yUO/BNxE7t7JvcjjuqReRxp/kg8aR2yXmbMSzY/aQwJ7Qq602la
-3,Andrew Mccormick,kaitlincunningham@example.com,gAAAAABnLTbAuX59mSjvzgxIVl1GsE84uhElMSy5xMFAHWwF7f2NtaaHKXAswkgisAmqe4q8AthBTOy2FS8ydoczixf1XNdjdw==,Lima Norte,Vendedor,$2b$12$4aX/hXVqDgDrwRov7TwMqO.LUvQ4ymxcwxWgLZ6FagpB.J0CeK/vy
-4,Steven Joseph,alexistorres@example.com,gAAAAABnLTbAswq22ZkQ3EK_YEcj6axDv8Bm2RpGa23QM96ZxrDCBp5bRWsZ3C3EsM9ReUFZkzJaQ9jzMHa9aIsXxTsgsmeirKAbLhlzo3fgRqNcQKwzlMk=,Barranco,Supervisor,$2b$12$ZJuD/8oWyC/clEDfGExFRe970kkoopwJDMRQip6SuPqSDmDFAsVVG
-5,Christine Kaiser,edwardrodriguez@example.org,gAAAAABnLTbAk9lt7oF5Zx0AUdSgOurPWLPDdkxyrbJNIz-ceiyaOkrq1w_AOu1Zh9giOtjnBIFsR8ZlR5SCFYqX6Ieqf67iB7qgDTHlWJJbUekCMbagRxc=,Barranco,Vendedor,$2b$12$Oml5M.EnqMRRN4wLJWyIEuEMPTOGvl1Ji9DlKJuLKj8kElrlJjI6y
-6,Eric Jackson,joshua60@example.com,gAAAAABnLTbADiNFGwEIuEI-j6Yw-znFckFhPE6b64IuFFKfFAGat9w42H4Wzbwlq15pzJEaj-H5xD2MDVDkV9nH3RP7mRApEw==,Barranco,Vendedor,$2b$12$VoTdUStm0Wq0svGRDcltYecdixgBB1VOMHVVrT8kTBXWVZkD9puLK
-7,Joseph Lawrence,tnorman@example.net,gAAAAABnLTbA0Dva_vhor_74Oud5THgS0hwOyI-9_xMHOJ5RiITPXKankD-XwxyO1UC9DjUqiZViZub2Zbv5crkYQr2GxkSK2QSm9C593yFC9iQHAZzdkDo=,Miraflores,Supervisor,$2b$12$HomXi7GfJ1aIWEhvJ3qztO.Mt6qfnMc78S182A4z7itUTImocWvoC
-8,Jesus Martin,gabriella56@example.com,gAAAAABnLTbAFzNrzfl8klx8AQfgxxZgrk1xN5So-0Y-Sxuuu10xJbJ0NPHal0uBmwUpWGTBxB8sZmI6mibfDqaNUeNPhyz_QVIHsSORbmRb7DAVe8wKnQU=,Miraflores,Vendedor,$2b$12$I8EBi.wQ0CpvGGA47dbCcejqmyzxrsmcrQyYsU19KSW6UxafgbUke
-9,Mary Baker,davisjessica@example.com,gAAAAABnLTbA7Jy1b-5deHt6kLw9CeeeKN9kDK--bOurKIj8NXw1Df7zMHQ2DqdGA_AMy0arj-h6Hc9isyto9N10c3_BaRfU2w==,Miraflores,Vendedor,$2b$12$3ZDbkVY.yjsHhby7PaIWvuyGabvUuRSI8Ydcx7cFOS3pvvSbGvudS
-10,Alexander Benton,nelsonrobert@example.org,gAAAAABnLTbAEXMxQ2lkUNRMUv114re_tCcoBC8YKpNK_EAV9VJ0UylzJL7s_O6w4I4nv2fcBB5vmn2i1AskHI_pN5TakcLXt2QdxtnzpyeDMtkaguPFVTg=,San Isidro,Supervisor,$2b$12$vk9EpWu4rKpRbtVYRIx4EuzSzEIjFyy4pBKboQQBeUOqh.9YDcSim
-11,Mark Johnson,bradleysmith@example.org,gAAAAABnLTbAKmSqU93XyfI0srbgLgJKDGnGvOxQbGeKWoXpfbGnt5uvBVbJjI_K5aGok7ScDlNKWWF5s8fAn8mNiWL141ytOrErnxpV7dRfxrKe3SYDKoE=,San Isidro,Vendedor,$2b$12$Sl2X1QP3uXxXtb3p30cm.ODWk6XYE2qTgCQ/qVY8MY9fXWa3Rj2PC
-12,Scott Sullivan,jasonspence@example.net,gAAAAABnLTbA6KB5zt6gmcZX88WcjwtqPZQShgc77ajLV7VphtjKfhwA4a7zYFzHAW9i8R3YAF9LK89gGyLagZEEi3seFRNzaA==,San Isidro,Vendedor,$2b$12$XSQ.3SUumsXipobU0J93YOCXE8TJf.ExLGKX4rZEp0BxiJetBVBLe
-13,Nicole Palmer,geraldgarner@example.org,gAAAAABnLTbAtJSzZb9gbqLp_SSLsQS2kuD27Sf7oUR3G-FLqx3BZXnwSVDw1rGTEicDkETNRQLEB8vvqQQF9M4T6Dpy6DIcTuqdqO5gtWkqOvzy6_mkJis=,Surco,Supervisor,$2b$12$0VIaiFDMZBO/dIfb8oEWL.MvjoLSwrbVaikkAYt6aBdw47ukkO.Ve
-14,Megan White,pjefferson@example.net,gAAAAABnLTbAryQjFUh9VZqspJYBHTNRUBM6mjVH8X3yimoCe-iYE_Cedrbx-WOcqkhAv9WP3ZviSSMj8ypcUNrN9NIZ-D-eGg==,Surco,Vendedor,$2b$12$jnJ4X6YdmhMqdu8Xv3ErQu8JTzs0nSdGH8TkIJ1U3CHcKLZJs8DiG
-15,Jacob Bowman,theresamiller@example.org,gAAAAABnLTbAolp_qybJNyxVjEXWo6-WVyN_idjhmkIdzX1jL8YKACZv6TKd4qX2GQScxrkDKWN55XFDnivOzVdyEmCJXUUNWg==,Surco,Vendedor,$2b$12$dCtRyuTPGPNg6n1EwHjofOneENmPK.0GB9wd.A8vzjuWy9cwGaC2q
-16,Jeffrey Williams,austingonzalez@example.net,gAAAAABnLTbAIJ5F-xa6HdpZS46F7_tysfqPaYWUNy2EZn7M33xeuQB5Tznz9XwJY9uP92IJzCvdHQ-OB8wZ_YCDK8A648_okg==,La Molina,Supervisor,$2b$12$1RbBJ7uPq5d9AoAsagyOLORQCZ4y1Tmw5ftmQU7.FnhIFkmBPoU1G
-17,Rickey Lowery,scottjason@example.org,gAAAAABnLTbAMX7IehqwMOB6HH9a3glliIh20sXmFT0WsGvFNn0jUP4jBXn5LSIdVXZz1whdg4in3pswDn88aq8d3J5gIq71lQ==,La Molina,Vendedor,$2b$12$6gkmqtCKnmoM/gsEQrzQ9eCf8Mvq.vC32SFrmvmFdrlLBuu8/AS6u
-18,Autumn Kemp,moorericardo@example.net,gAAAAABnLTbAOqPODfgSiv_QYPr1fecgsFQolPOkeNAcoGkCTd3d7PP-vFcc9X5y7VkhdmaG1jZCpn0wYS5grFqBMwoQAaqPyJf7Y7bb8WnfjqjtWSixwK8=,La Molina,Vendedor,$2b$12$yzxIlu9.pGyhJWZPkSf3quyQl3Dl1wsgNV/7mBlUdUYHUTk33nvlC
-19,Gina Salas,bmartinez@example.com,gAAAAABnLTbAZ5GUHcwCHyy_t0_3To-lJvsWXwX3DHJfD7-oyjiXbMvE7njejRFL_p-PRsIA-AgfVxSqci1RIQWcS5FbirnX9A3dJ3RYo1P9DFFSie9ExAE=,Admin,Administrador,$2b$12$EQUFBoBWfZyEzyYjcuhnHucbGH/.rxERyvZfVLcXfIitb6MTiKbmS
+Vendedor_ID,Nombre_Vendedor,Email,Telefono,Store,Rol,Direccion,Fecha_Nacimiento,DNI,Historial_Salud,Password_Hash
+1,Nicholas Acevedo,hickmanrebecca@example.org,001-830-689-8255x176,Lima Norte,Supervisor,"USCGC Norton
+FPO AA 40272",1962-06-09,gAAAAABnSOskglujmih6FfVDCy5SVB2qjNYKvluBgNwD8LrzV3woDWydaKG2_mmJyafB1unJTREUcpD90BOAXXolxuZGFom2nA==,Hipertensión,$2b$12$TWsdQC1/9mTu3WiNuXqWf.fu4Ax/DUdkVLUm3mGQqX9IiQ9qLEuGa
+2,Alex Henry,qlewis@example.net,261-256-1320x01687,Lima Norte,Vendedor,"035 Turner Fords
+Parkerbury, PW 74449",1991-12-02,gAAAAABnSOskFe6cEYkRexc-6_dPF_9oZlADInBJw14uEkyUVoFfmA6389v0xaAvrZ5jdiw3WndxrjNtDTbO_6O5APlBJKU5lw==,Enfermedad crónica,$2b$12$wE75hYvqFhSU.omX/H17WOCl4nske9hDEHOx8shjmaD97E3c8xja2
+3,Greg Fox MD,tpennington@example.com,(264)848-8802x7570,Lima Norte,Vendedor,"PSC 9390, Box 4511
+APO AE 58109",1976-10-21,gAAAAABnSOskrNs29BE90ydnMPlxlnPTQ_ho1PERxPl65qrMQ12LFRLERdRvHOoMZNoD2mqfl3WCoqXAyvaNsEf12Bt946lCOw==,Hipertensión,$2b$12$tGJySNqzCRfyuVfyYjtTLOMRzxXF5t5qIFpCaufeVVdjrQBrz1cn2
+4,Dennis Moyer,jonathan65@example.com,851.620.9790x509,Barranco,Supervisor,"617 Mejia Course Apt. 837
+New Tracyville, KY 81144",2002-06-08,gAAAAABnSOsk0OhcGueykOPlodakbjq_j_67fikv5255AzJr1bxfjKTRPnhvOnoATS9OB7_7453ClZZ04mCTCquR96QYe8mXWw==,Hipertensión,$2b$12$Hg04vdFy/9zX/uejcQ.CAuMiJSd/i037OT7hmAS6SgFGquO.xv27O
+5,Michael Cruz,derek57@example.com,972-647-5448x539,Barranco,Vendedor,"9450 Martinez Creek
+North Joseph, NE 35662",1961-11-16,gAAAAABnSOsk9dlnSmOExXAHnfJDMTSmyk1hTlKgPYPcs3jP0H-nc4qO8xzRgJaAq69bxcoafDvU7CsMmNPy5bAV32zCia7f9w==,Saludable,$2b$12$kf8xE348FFcC7dXEQTV71eqlFlocfIch6FqN3UMKOEY5zk5C5KcAy
+6,Michael Campbell,michael78@example.net,531-985-3789,Barranco,Vendedor,"748 Gardner Mission Suite 626
+Shannonborough, NC 29569",1976-01-01,gAAAAABnSOskGHNOegxOdFEy-Ssbe9YStjS4csrl3064pLE4dv7u53pa2zH0-OG0IJa70q2alksJmAkNOxpRNCdoKoBog067Nw==,Hipertensión,$2b$12$RmuCfeLeLIaNBN3IOXkgHuZn/UNDJTc94NcppmOtkmzbj0Im2/1hO
+7,Caleb Peterson,skelly@example.net,815-887-4271x5471,Miraflores,Supervisor,"16557 Johnson Branch Apt. 299
+North Holly, CT 32957",1994-04-13,gAAAAABnSOskep_RfQgS7VLqi_irx8zK0E6xFsua3po_MzrND_Y43qkxhXNldIm85cN9f09X6ldZ1G6dD9Ey9GW52FmZyVC0aw==,Hipertensión,$2b$12$WoxV/YWn.3apAL3oxi3CMei429hrMM484eFgCWndriOd09OaHSqT6
+8,Travis Obrien,kevinjohnson@example.net,(983)441-0953x384,Miraflores,Vendedor,"2223 Huffman Light Apt. 415
+North Sheila, TN 39604",1959-04-20,gAAAAABnSOsk0IH65s558bMiCK2c1ejesfzpVDci_0uFkiMfc6rSHH2YWANmZxdpe0tUk95WIza_3dKY-elhns3JlKq6LktgLg==,Saludable,$2b$12$7ktmUU7fjjcEqcZsB/bmee1vN/xWUhr/gA46SxA4R3nxVBYiFjGBa
+9,Caitlyn Bailey,efrancis@example.com,+1-836-201-9216x6526,Miraflores,Vendedor,"2998 Deborah River
+Port Holly, GU 37521",2002-07-29,gAAAAABnSOsk9dKUcgKtAwa2YF4tgN2XEHYk6-nMsbNARwdtnZm9KYpAyDvkurJAO4EG__I6lU3j0YNkuydU9ZGKuLGEJme41A==,Hipertensión,$2b$12$fizYBiRWa96Yu1WRk.bKj.XfqZ33vVUaTs.PbQazYCm1P68dPmhuS
+10,Ryan Lee,amy72@example.net,292-455-3543x37885,San Isidro,Supervisor,"8746 Kenneth Oval Suite 702
+Lake Brianville, MT 35073",2001-07-03,gAAAAABnSOsk_7xjcEWh4_LasN5qelhpLjR5UnYWwQWg7P8r6B-uJmQGwH7pitvN0vEsuwh_BxUeapji1SZcbNFHOVKH23w-Zw==,Problemas de visión,$2b$12$vWwRxCbHrLnVYTj3xdZlDO9w2DhvB04x3yT7zM9CH5FA5wb.JUBiK
+11,Leslie Rodriguez,nguyenrichard@example.net,(804)737-0120x900,San Isidro,Vendedor,"866 Richard Mission
+Lake Benjamin, AL 33397",1983-03-15,gAAAAABnSOskI9pD-OIFWRH4MujTlZtbYF9ebEcfbOiZNzhOmLyB8vZDSWpd8-J_0ku9hVJPuSncGCkLS2EV4tuIWRLlzM0BQQ==,Enfermedad crónica,$2b$12$horFwBKdLXdE0VdFKkibIOVkR8UMn0b3FU3s45zn6GC9r1gyDm7bS
+12,Kathy Hayden,vaughanpamela@example.net,(390)423-7167,San Isidro,Vendedor,"16862 Samuel Center
+Robertsonhaven, UT 38166",1968-10-06,gAAAAABnSOskOH-4TAcCHikks8pPkyFN7pg4pTg2XERuMUX9KIn47xBGrPDcJJ9s6f8mqagLM3CdnahtRS3lWk9Mc3HjYy6Mpg==,Saludable,$2b$12$r1sO0cWKD/9d.YbhLZUWSODx8kPYdYn3GXOPXh3MUIv033EJJFSiG
+13,Douglas Clayton,bjohnson@example.com,376.417.9906,Surco,Supervisor,"7041 Faulkner Fork Suite 311
+New Loganberg, MN 33767",2003-09-12,gAAAAABnSOskPATFrfmqpJlRoHJnGBHzdPquoc-IMkEBsd47_6TWd4rmj-8n0RcH29PIu5cWE4Xm8GQT_QP0hNCQNu1bsFwGeg==,Hipertensión,$2b$12$e7cJkwnVFRDhcC4bmUDq9.cwqUN.DKfghsb3Bz4KTA3QQjISIxRdW
+14,Katie Martinez,mcarrillo@example.net,+1-649-927-6016x5477,Surco,Vendedor,"768 Evans Cliffs Suite 697
+Port Mark, PR 45670",1967-01-14,gAAAAABnSOskt6IEgQj6FZvoqy9TlNCpKfMOSL4lHFKFo3hz71bkP8eu_COgXtSD3gBHziVruOenl5-LYkFANMDKdgrFwSw8FQ==,Hipertensión,$2b$12$Fm8aVHLUQMYb8TV9htxxSO/1XWNp8Hn0ljJvXLMGsOAxzPlqyaOWi
+15,April Burgess,matthewdavis@example.net,8869542992,Surco,Vendedor,"6024 James Terrace
+South Amandastad, KS 58145",1962-02-09,gAAAAABnSOskcU9nnRFwvO5564uOlKvXbLGhyPCKJXcG0-j5k6i2OjH7Cw00C4d9aDQzU_zPKKLKL8LZ-DtFrd287q6H4aX7WA==,Problemas de visión,$2b$12$LHAWY2f1b16v17nMW7mhvesTOnSGlbCdoHe//YMX81/YmOtjS3you
+16,Jacob Day,wagnerdiana@example.org,(307)703-7187,La Molina,Supervisor,"9129 Jones Corner
+East Michael, WY 45389",1961-06-27,gAAAAABnSOskfLZMgwNrzdoE6oVZpTsBCuoV0tf8lNQI0a_hnUOMiE0cO8d3xg4qCbcRwyXYVOr4Q0o3Pvj6Jep7zoSgyww1XA==,Problemas de visión,$2b$12$KztnbCRma/ouKodhdrYWp.H9nMnt52Bvgcf7bfdc4l52dUMfsKOQ6
+17,Brooke Floyd,jhill@example.com,9263520324,La Molina,Vendedor,"7455 Jackson Crossroad Suite 425
+Port Tammy, NH 84770",1974-08-24,gAAAAABnSOskKoHs39-eAPwZLPfBkaZO6PMZskGEhxKLAwQ6qXzDsQsLXYEK7tcvR4xiNCe_l5y4CKej-mdz6peampYvlG0_6A==,Saludable,$2b$12$gZLZRJS8EWD7uXvfWrSnDeIuhWqtnGCX.LwdfHkiGiJbvJKUSIkNG
+18,Carol Hunt,alexandersamuel@example.com,628.328.3606,La Molina,Vendedor,"58094 Stanley Knoll
+Dyerview, PW 21723",2000-12-29,gAAAAABnSOsk5q_m4Suele1bW1DOHgh2GAOHatLi8tlbGK1NUBPZGPNOk5pwadj3HW4njIl3MiP8pQJ_rejN2NuM2DqUA27Vdg==,Enfermedad crónica,$2b$12$7hNkCIjSdflJAJhQ.TkcrOb9PjT0gEvR13OEocFFyNHqqDeaY0cA2
+19,Stephanie Meyers MD,xjackson@example.net,445-291-5104,Admin,Administrador,"99925 Miller Key
+Ryanborough, IN 03868",1992-11-04,gAAAAABnSOskcff9iZuVd31XpQSa94iVfJtqBQWWaUIVWXdcgGEP3Y3BUKrwk0qUO8wyXTmuqVdeT4qTvs6lwBW8HuRa_T8vWg==,Hipertensión,$2b$12$B0Xwe.HAnQj3Sul/k8Fd/uHbnAT33ZVpepMuBg8WXvN0bJ84cGHPi

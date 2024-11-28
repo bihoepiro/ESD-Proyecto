@@ -21,7 +21,7 @@ def cifrar_dato(dato):
 def descifrar_dato(dato_cifrado):
     return cipher_suite.decrypt(dato_cifrado.encode()).decode()
 
-vendedores_df['Telefono'] = vendedores_df['Telefono'].apply(cifrar_dato)
+vendedores_df['DNI'] = vendedores_df['DNI'].apply(cifrar_dato)
 
 vendedores_df.to_csv('vendedores.csv', index=False)
 print("Datos cifrados y guardados en vendedores.csv")

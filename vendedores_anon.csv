@@ -1,20 +1,38 @@
-Vendedor_ID,Nombre_Vendedor,Telefono,Store,Rol,Password_Hash,Vendedor_ID_Anon,Email_Anon
-1,Allison Lloyd,gAAAAABnLTbABY-YJlSLEFoBOiMUytWD9hQl7uimlsvMEfLULEpAMvxDu1i-bDv08_REU5PJhIctm5WQlH0vRAWWmvWMAR2M9g==,Lima Norte,Supervisor,$2b$12$oCp84WKAASQ/bPJFdwQO3egiUAcR8rm8xFgSUmmyiu5gx7Y3JqgDO,6b86b273ff,f36281d001@example.net
-2,Connie Lee,gAAAAABnLTbAtAeBqpLNzABcMju30-UCp0avIVWAApoS2CZyqfguoh99bm85c2AQIuZhhUivQVH2w0Bsyq-BFYmMVljSQTd99A==,Lima Norte,Vendedor,$2b$12$T4yUO/BNxE7t7JvcjjuqReRxp/kg8aR2yXmbMSzY/aQwJ7Qq602la,d4735e3a26,8e8334d004@example.org
-3,Andrew Mccormick,gAAAAABnLTbAuX59mSjvzgxIVl1GsE84uhElMSy5xMFAHWwF7f2NtaaHKXAswkgisAmqe4q8AthBTOy2FS8ydoczixf1XNdjdw==,Lima Norte,Vendedor,$2b$12$4aX/hXVqDgDrwRov7TwMqO.LUvQ4ymxcwxWgLZ6FagpB.J0CeK/vy,4e07408562,6783729e8d@example.com
-4,Steven Joseph,gAAAAABnLTbAswq22ZkQ3EK_YEcj6axDv8Bm2RpGa23QM96ZxrDCBp5bRWsZ3C3EsM9ReUFZkzJaQ9jzMHa9aIsXxTsgsmeirKAbLhlzo3fgRqNcQKwzlMk=,Barranco,Supervisor,$2b$12$ZJuD/8oWyC/clEDfGExFRe970kkoopwJDMRQip6SuPqSDmDFAsVVG,4b227777d4,844cd22f07@example.com
-5,Christine Kaiser,gAAAAABnLTbAk9lt7oF5Zx0AUdSgOurPWLPDdkxyrbJNIz-ceiyaOkrq1w_AOu1Zh9giOtjnBIFsR8ZlR5SCFYqX6Ieqf67iB7qgDTHlWJJbUekCMbagRxc=,Barranco,Vendedor,$2b$12$Oml5M.EnqMRRN4wLJWyIEuEMPTOGvl1Ji9DlKJuLKj8kElrlJjI6y,ef2d127de3,df5efadcfd@example.org
-6,Eric Jackson,gAAAAABnLTbADiNFGwEIuEI-j6Yw-znFckFhPE6b64IuFFKfFAGat9w42H4Wzbwlq15pzJEaj-H5xD2MDVDkV9nH3RP7mRApEw==,Barranco,Vendedor,$2b$12$VoTdUStm0Wq0svGRDcltYecdixgBB1VOMHVVrT8kTBXWVZkD9puLK,e7f6c01177,5180a16d7f@example.com
-7,Joseph Lawrence,gAAAAABnLTbA0Dva_vhor_74Oud5THgS0hwOyI-9_xMHOJ5RiITPXKankD-XwxyO1UC9DjUqiZViZub2Zbv5crkYQr2GxkSK2QSm9C593yFC9iQHAZzdkDo=,Miraflores,Supervisor,$2b$12$HomXi7GfJ1aIWEhvJ3qztO.Mt6qfnMc78S182A4z7itUTImocWvoC,7902699be4,d82af0845f@example.net
-8,Jesus Martin,gAAAAABnLTbAFzNrzfl8klx8AQfgxxZgrk1xN5So-0Y-Sxuuu10xJbJ0NPHal0uBmwUpWGTBxB8sZmI6mibfDqaNUeNPhyz_QVIHsSORbmRb7DAVe8wKnQU=,Miraflores,Vendedor,$2b$12$I8EBi.wQ0CpvGGA47dbCcejqmyzxrsmcrQyYsU19KSW6UxafgbUke,2c624232cd,ba66df01c5@example.com
-9,Mary Baker,gAAAAABnLTbA7Jy1b-5deHt6kLw9CeeeKN9kDK--bOurKIj8NXw1Df7zMHQ2DqdGA_AMy0arj-h6Hc9isyto9N10c3_BaRfU2w==,Miraflores,Vendedor,$2b$12$3ZDbkVY.yjsHhby7PaIWvuyGabvUuRSI8Ydcx7cFOS3pvvSbGvudS,19581e27de,a2c51f5776@example.com
-10,Alexander Benton,gAAAAABnLTbAEXMxQ2lkUNRMUv114re_tCcoBC8YKpNK_EAV9VJ0UylzJL7s_O6w4I4nv2fcBB5vmn2i1AskHI_pN5TakcLXt2QdxtnzpyeDMtkaguPFVTg=,San Isidro,Supervisor,$2b$12$vk9EpWu4rKpRbtVYRIx4EuzSzEIjFyy4pBKboQQBeUOqh.9YDcSim,4a44dc1536,7235628a7f@example.org
-11,Mark Johnson,gAAAAABnLTbAKmSqU93XyfI0srbgLgJKDGnGvOxQbGeKWoXpfbGnt5uvBVbJjI_K5aGok7ScDlNKWWF5s8fAn8mNiWL141ytOrErnxpV7dRfxrKe3SYDKoE=,San Isidro,Vendedor,$2b$12$Sl2X1QP3uXxXtb3p30cm.ODWk6XYE2qTgCQ/qVY8MY9fXWa3Rj2PC,4fc82b26ae,7257260238@example.org
-12,Scott Sullivan,gAAAAABnLTbA6KB5zt6gmcZX88WcjwtqPZQShgc77ajLV7VphtjKfhwA4a7zYFzHAW9i8R3YAF9LK89gGyLagZEEi3seFRNzaA==,San Isidro,Vendedor,$2b$12$XSQ.3SUumsXipobU0J93YOCXE8TJf.ExLGKX4rZEp0BxiJetBVBLe,6b51d431df,529fe5b33e@example.net
-13,Nicole Palmer,gAAAAABnLTbAtJSzZb9gbqLp_SSLsQS2kuD27Sf7oUR3G-FLqx3BZXnwSVDw1rGTEicDkETNRQLEB8vvqQQF9M4T6Dpy6DIcTuqdqO5gtWkqOvzy6_mkJis=,Surco,Supervisor,$2b$12$0VIaiFDMZBO/dIfb8oEWL.MvjoLSwrbVaikkAYt6aBdw47ukkO.Ve,3fdba35f04,a822903239@example.org
-14,Megan White,gAAAAABnLTbAryQjFUh9VZqspJYBHTNRUBM6mjVH8X3yimoCe-iYE_Cedrbx-WOcqkhAv9WP3ZviSSMj8ypcUNrN9NIZ-D-eGg==,Surco,Vendedor,$2b$12$jnJ4X6YdmhMqdu8Xv3ErQu8JTzs0nSdGH8TkIJ1U3CHcKLZJs8DiG,8527a891e2,15d0082d51@example.net
-15,Jacob Bowman,gAAAAABnLTbAolp_qybJNyxVjEXWo6-WVyN_idjhmkIdzX1jL8YKACZv6TKd4qX2GQScxrkDKWN55XFDnivOzVdyEmCJXUUNWg==,Surco,Vendedor,$2b$12$dCtRyuTPGPNg6n1EwHjofOneENmPK.0GB9wd.A8vzjuWy9cwGaC2q,e629fa6598,b268c08ab9@example.org
-16,Jeffrey Williams,gAAAAABnLTbAIJ5F-xa6HdpZS46F7_tysfqPaYWUNy2EZn7M33xeuQB5Tznz9XwJY9uP92IJzCvdHQ-OB8wZ_YCDK8A648_okg==,La Molina,Supervisor,$2b$12$1RbBJ7uPq5d9AoAsagyOLORQCZ4y1Tmw5ftmQU7.FnhIFkmBPoU1G,b17ef6d19c,1d8dd5ef6d@example.net
-17,Rickey Lowery,gAAAAABnLTbAMX7IehqwMOB6HH9a3glliIh20sXmFT0WsGvFNn0jUP4jBXn5LSIdVXZz1whdg4in3pswDn88aq8d3J5gIq71lQ==,La Molina,Vendedor,$2b$12$6gkmqtCKnmoM/gsEQrzQ9eCf8Mvq.vC32SFrmvmFdrlLBuu8/AS6u,4523540f15,ec41194cac@example.org
-18,Autumn Kemp,gAAAAABnLTbAOqPODfgSiv_QYPr1fecgsFQolPOkeNAcoGkCTd3d7PP-vFcc9X5y7VkhdmaG1jZCpn0wYS5grFqBMwoQAaqPyJf7Y7bb8WnfjqjtWSixwK8=,La Molina,Vendedor,$2b$12$yzxIlu9.pGyhJWZPkSf3quyQl3Dl1wsgNV/7mBlUdUYHUTk33nvlC,4ec9599fc2,502df96d4f@example.net
-19,Gina Salas,gAAAAABnLTbAZ5GUHcwCHyy_t0_3To-lJvsWXwX3DHJfD7-oyjiXbMvE7njejRFL_p-PRsIA-AgfVxSqci1RIQWcS5FbirnX9A3dJ3RYo1P9DFFSie9ExAE=,Admin,Administrador,$2b$12$EQUFBoBWfZyEzyYjcuhnHucbGH/.rxERyvZfVLcXfIitb6MTiKbmS,9400f1b21c,72b5fafea1@example.com
+Vendedor_ID,Nombre_Vendedor,Store,Rol,Fecha_Nacimiento,DNI,Historial_Salud,Password_Hash,Vendedor_ID_Anon,Email_Anon,Telefono_Anon,Direccion_Anon
+1,Nicholas Acevedo,Lima Norte,Supervisor,1962-06-09,gAAAAABnSOskglujmih6FfVDCy5SVB2qjNYKvluBgNwD8LrzV3woDWydaKG2_mmJyafB1unJTREUcpD90BOAXXolxuZGFom2nA==,Hipertensión,$2b$12$TWsdQC1/9mTu3WiNuXqWf.fu4Ax/DUdkVLUm3mGQqX9IiQ9qLEuGa,6b86b273ff,h****@example.org,****-****,"USCGC Norton
+FPO AA"
+2,Alex Henry,Lima Norte,Vendedor,1991-12-02,gAAAAABnSOskFe6cEYkRexc-6_dPF_9oZlADInBJw14uEkyUVoFfmA6389v0xaAvrZ5jdiw3WndxrjNtDTbO_6O5APlBJKU5lw==,Enfermedad crónica,$2b$12$wE75hYvqFhSU.omX/H17WOCl4nske9hDEHOx8shjmaD97E3c8xja2,d4735e3a26,q****@example.net,****-****,"Turner Fords
+Parkerbury"
+3,Greg Fox MD,Lima Norte,Vendedor,1976-10-21,gAAAAABnSOskrNs29BE90ydnMPlxlnPTQ_ho1PERxPl65qrMQ12LFRLERdRvHOoMZNoD2mqfl3WCoqXAyvaNsEf12Bt946lCOw==,Hipertensión,$2b$12$tGJySNqzCRfyuVfyYjtTLOMRzxXF5t5qIFpCaufeVVdjrQBrz1cn2,4e07408562,t****@example.com,****-****,PSC
+4,Dennis Moyer,Barranco,Supervisor,2002-06-08,gAAAAABnSOsk0OhcGueykOPlodakbjq_j_67fikv5255AzJr1bxfjKTRPnhvOnoATS9OB7_7453ClZZ04mCTCquR96QYe8mXWw==,Hipertensión,$2b$12$Hg04vdFy/9zX/uejcQ.CAuMiJSd/i037OT7hmAS6SgFGquO.xv27O,4b227777d4,j****@example.com,****-****,"Mejia Course Apt. 
+New Tracyville"
+5,Michael Cruz,Barranco,Vendedor,1961-11-16,gAAAAABnSOsk9dlnSmOExXAHnfJDMTSmyk1hTlKgPYPcs3jP0H-nc4qO8xzRgJaAq69bxcoafDvU7CsMmNPy5bAV32zCia7f9w==,Saludable,$2b$12$kf8xE348FFcC7dXEQTV71eqlFlocfIch6FqN3UMKOEY5zk5C5KcAy,ef2d127de3,d****@example.com,****-****,"Martinez Creek
+North Joseph"
+6,Michael Campbell,Barranco,Vendedor,1976-01-01,gAAAAABnSOskGHNOegxOdFEy-Ssbe9YStjS4csrl3064pLE4dv7u53pa2zH0-OG0IJa70q2alksJmAkNOxpRNCdoKoBog067Nw==,Hipertensión,$2b$12$RmuCfeLeLIaNBN3IOXkgHuZn/UNDJTc94NcppmOtkmzbj0Im2/1hO,e7f6c01177,m****@example.net,****-****,"Gardner Mission Suite 
+Shannonborough"
+7,Caleb Peterson,Miraflores,Supervisor,1994-04-13,gAAAAABnSOskep_RfQgS7VLqi_irx8zK0E6xFsua3po_MzrND_Y43qkxhXNldIm85cN9f09X6ldZ1G6dD9Ey9GW52FmZyVC0aw==,Hipertensión,$2b$12$WoxV/YWn.3apAL3oxi3CMei429hrMM484eFgCWndriOd09OaHSqT6,7902699be4,s****@example.net,****-****,"Johnson Branch Apt. 
+North Holly"
+8,Travis Obrien,Miraflores,Vendedor,1959-04-20,gAAAAABnSOsk0IH65s558bMiCK2c1ejesfzpVDci_0uFkiMfc6rSHH2YWANmZxdpe0tUk95WIza_3dKY-elhns3JlKq6LktgLg==,Saludable,$2b$12$7ktmUU7fjjcEqcZsB/bmee1vN/xWUhr/gA46SxA4R3nxVBYiFjGBa,2c624232cd,k****@example.net,****-****,"Huffman Light Apt. 
+North Sheila"
+9,Caitlyn Bailey,Miraflores,Vendedor,2002-07-29,gAAAAABnSOsk9dKUcgKtAwa2YF4tgN2XEHYk6-nMsbNARwdtnZm9KYpAyDvkurJAO4EG__I6lU3j0YNkuydU9ZGKuLGEJme41A==,Hipertensión,$2b$12$fizYBiRWa96Yu1WRk.bKj.XfqZ33vVUaTs.PbQazYCm1P68dPmhuS,19581e27de,e****@example.com,****-****,"Deborah River
+Port Holly"
+10,Ryan Lee,San Isidro,Supervisor,2001-07-03,gAAAAABnSOsk_7xjcEWh4_LasN5qelhpLjR5UnYWwQWg7P8r6B-uJmQGwH7pitvN0vEsuwh_BxUeapji1SZcbNFHOVKH23w-Zw==,Problemas de visión,$2b$12$vWwRxCbHrLnVYTj3xdZlDO9w2DhvB04x3yT7zM9CH5FA5wb.JUBiK,4a44dc1536,a****@example.net,****-****,"Kenneth Oval Suite 
+Lake Brianville"
+11,Leslie Rodriguez,San Isidro,Vendedor,1983-03-15,gAAAAABnSOskI9pD-OIFWRH4MujTlZtbYF9ebEcfbOiZNzhOmLyB8vZDSWpd8-J_0ku9hVJPuSncGCkLS2EV4tuIWRLlzM0BQQ==,Enfermedad crónica,$2b$12$horFwBKdLXdE0VdFKkibIOVkR8UMn0b3FU3s45zn6GC9r1gyDm7bS,4fc82b26ae,n****@example.net,****-****,"Richard Mission
+Lake Benjamin"
+12,Kathy Hayden,San Isidro,Vendedor,1968-10-06,gAAAAABnSOskOH-4TAcCHikks8pPkyFN7pg4pTg2XERuMUX9KIn47xBGrPDcJJ9s6f8mqagLM3CdnahtRS3lWk9Mc3HjYy6Mpg==,Saludable,$2b$12$r1sO0cWKD/9d.YbhLZUWSODx8kPYdYn3GXOPXh3MUIv033EJJFSiG,6b51d431df,v****@example.net,****-****,"Samuel Center
+Robertsonhaven"
+13,Douglas Clayton,Surco,Supervisor,2003-09-12,gAAAAABnSOskPATFrfmqpJlRoHJnGBHzdPquoc-IMkEBsd47_6TWd4rmj-8n0RcH29PIu5cWE4Xm8GQT_QP0hNCQNu1bsFwGeg==,Hipertensión,$2b$12$e7cJkwnVFRDhcC4bmUDq9.cwqUN.DKfghsb3Bz4KTA3QQjISIxRdW,3fdba35f04,b****@example.com,****-****,"Faulkner Fork Suite 
+New Loganberg"
+14,Katie Martinez,Surco,Vendedor,1967-01-14,gAAAAABnSOskt6IEgQj6FZvoqy9TlNCpKfMOSL4lHFKFo3hz71bkP8eu_COgXtSD3gBHziVruOenl5-LYkFANMDKdgrFwSw8FQ==,Hipertensión,$2b$12$Fm8aVHLUQMYb8TV9htxxSO/1XWNp8Hn0ljJvXLMGsOAxzPlqyaOWi,8527a891e2,m****@example.net,****-****,"Evans Cliffs Suite 
+Port Mark"
+15,April Burgess,Surco,Vendedor,1962-02-09,gAAAAABnSOskcU9nnRFwvO5564uOlKvXbLGhyPCKJXcG0-j5k6i2OjH7Cw00C4d9aDQzU_zPKKLKL8LZ-DtFrd287q6H4aX7WA==,Problemas de visión,$2b$12$LHAWY2f1b16v17nMW7mhvesTOnSGlbCdoHe//YMX81/YmOtjS3you,e629fa6598,m****@example.net,****-****,"James Terrace
+South Amandastad"
+16,Jacob Day,La Molina,Supervisor,1961-06-27,gAAAAABnSOskfLZMgwNrzdoE6oVZpTsBCuoV0tf8lNQI0a_hnUOMiE0cO8d3xg4qCbcRwyXYVOr4Q0o3Pvj6Jep7zoSgyww1XA==,Problemas de visión,$2b$12$KztnbCRma/ouKodhdrYWp.H9nMnt52Bvgcf7bfdc4l52dUMfsKOQ6,b17ef6d19c,w****@example.org,****-****,"Jones Corner
+East Michael"
+17,Brooke Floyd,La Molina,Vendedor,1974-08-24,gAAAAABnSOskKoHs39-eAPwZLPfBkaZO6PMZskGEhxKLAwQ6qXzDsQsLXYEK7tcvR4xiNCe_l5y4CKej-mdz6peampYvlG0_6A==,Saludable,$2b$12$gZLZRJS8EWD7uXvfWrSnDeIuhWqtnGCX.LwdfHkiGiJbvJKUSIkNG,4523540f15,j****@example.com,****-****,"Jackson Crossroad Suite 
+Port Tammy"
+18,Carol Hunt,La Molina,Vendedor,2000-12-29,gAAAAABnSOsk5q_m4Suele1bW1DOHgh2GAOHatLi8tlbGK1NUBPZGPNOk5pwadj3HW4njIl3MiP8pQJ_rejN2NuM2DqUA27Vdg==,Enfermedad crónica,$2b$12$7hNkCIjSdflJAJhQ.TkcrOb9PjT0gEvR13OEocFFyNHqqDeaY0cA2,4ec9599fc2,a****@example.com,****-****,"Stanley Knoll
+Dyerview"
+19,Stephanie Meyers MD,Admin,Administrador,1992-11-04,gAAAAABnSOskcff9iZuVd31XpQSa94iVfJtqBQWWaUIVWXdcgGEP3Y3BUKrwk0qUO8wyXTmuqVdeT4qTvs6lwBW8HuRa_T8vWg==,Hipertensión,$2b$12$B0Xwe.HAnQj3Sul/k8Fd/uHbnAT33ZVpepMuBg8WXvN0bJ84cGHPi,9400f1b21c,x****@example.net,****-****,"Miller Key
+Ryanborough"

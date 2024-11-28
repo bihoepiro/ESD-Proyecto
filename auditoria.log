@@ -280,3 +280,17 @@
 2024-11-07 16:50:49,244 -  * Debugger PIN: 138-878-770
 2024-11-07 16:51:47,081 -  * Detected change in 'C:\\Users\\bepiquien\\Desktop\\utec\\ESD_Proyecto\\cifrar_datos.py', reloading
 2024-11-07 16:51:47,208 -  * Restarting with stat
+2024-11-07 18:17:14,715 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 18:17:14,715 - [33mPress CTRL+C to quit[0m
+2024-11-07 18:17:14,717 -  * Restarting with stat
+2024-11-07 18:29:05,702 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 18:29:05,703 - [33mPress CTRL+C to quit[0m
+2024-11-07 18:29:05,705 -  * Restarting with stat
+2024-11-07 18:29:08,748 -  * Debugger is active!
+2024-11-07 18:29:08,755 -  * Debugger PIN: 138-878-770
+2024-11-07 18:29:38,881 - 127.0.0.1 - - [07/Nov/2024 18:29:38] "POST /autenticar HTTP/1.1" 200 -
+2024-11-07 18:29:57,284 - 127.0.0.1 - - [07/Nov/2024 18:29:57] "POST /verificar_2fa HTTP/1.1" 200 -
+2024-11-07 18:30:05,245 - 127.0.0.1 - - [07/Nov/2024 18:30:05] "GET /perfil/1 HTTP/1.1" 200 -
+2024-11-07 18:30:22,654 - 127.0.0.1 - - [07/Nov/2024 18:30:22] "GET /descargar_datos/1 HTTP/1.1" 200 -

@@ -7,7 +7,6 @@ from datetime import timedelta
 from flask_session import Session
 from tkinter import messagebox, ttk
 
-
 # Configuración de Flask y Flask-Session
 app = Flask(__name__)
 app.secret_key = 'secreto_seguro_y_largo_para_la_sesion'
@@ -17,10 +16,10 @@ app.config['SESSION_USE_SIGNER'] = True
 app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(minutes=5)
 Session(app)
 
-# Configuración de Logging para Auditoría
+
 logging.basicConfig(filename='auditoria.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
-# Cargar datos desde CSV
+
 try:
     vendedores_df = pd.read_csv('vendedores.csv')
     sales_df = pd.read_csv('sales_data.csv')
