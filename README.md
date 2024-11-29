@@ -61,7 +61,7 @@ En el análisis de ventas por ubicación, se observa que algunas tiendas venden 
 
 - Tiendas ubicadas en zonas comerciales de alto tráfico o en áreas con mayor poder adquisitivo pueden tener más ventas debido a la mayor afluencia de clientes.
 - La competencia o popularidad de las marcas o productos puede ser diferente en cada región, lo que impacta directamente en las ventas.
-![Distribución de Ventas por Ubicación de Tienda](myplot.png)
+![Distribución de Ventas por Ubicación de Tienda](myplot1.png)
 
 #### **7.2.2 Distribución de Ventas por Rol (Supervisor vs Vendedor)**
 En el análisis de ventas por rol, no se observan diferencias significativas entre las ventas de supervisores y vendedores. Ambos grupos parecen tener un rendimiento similar en términos de ventas semanales, lo que sugiere que el rol no influye significativamente en el desempeño de ventas.
@@ -71,7 +71,7 @@ En el análisis de ventas por rol, no se observan diferencias significativas ent
 - Los supervisores y los vendedores pueden tener roles complementarios que no afectan directamente las ventas, ya que ambos roles están orientados a la misma meta: incrementar las ventas.
 - También es posible que las oportunidades de ventas sean similares para ambos roles, lo que resulta en un desempeño equivalente.
 
-![Distribución de Ventas por Rol](myplot1.png)
+![Distribución de Ventas por Rol](myplot.png)
 
 #### **7.2.3 Distribución de Ventas por Edad del Vendedor**
 En el análisis de ventas por edad, no se encontró una correlación** significativa entre la edad del vendedor y las ventas semanales. Esto sugiere que no hay un sesgo de edad en el rendimiento de ventas, es decir, los vendedores de todas las edades parecen tener un desempeño similar.
@@ -81,7 +81,7 @@ En el análisis de ventas por edad, no se encontró una correlación** significa
 - La habilidad de ventas y el desempeño frente al clientes pueden ser más determinantes que la edad del vendedor.
 - El sistema de ventas puede estar estructurado de tal manera que no favorezca a los vendedores más jóvenes o más experimentados.
 
-![Distribución de Ventas por Edad](myplot.png)
+![Distribución de Ventas por Edad](myplot2.png)
 
 
 
