@@ -96,7 +96,7 @@ En el análisis de ventas por edad, no se encontró una correlación** significa
 El uso de privacidad diferencial en este proyecto es una estrategia ética para proteger la identidad de los vendedores mientras se obtiene información útil para la toma de decisiones. La privacidad diferencial asegura que se pueda analizar el comportamiento comercial sin comprometer la privacidad individual. No obstante, la implementación de ε (epsilon) debe ser cuidadosamente ajustada para balancear precisión y privacidad sin sacrificar la utilidad de los datos.
 
 ### **6.4 DPIA**
-Visualizar en el siguiente link: [link](https://docs.google.com/document/d/17M_6_2UUYPKQN-GP6g0hWNSKgcLlwb39/edit?usp=sharing&ouid=108403985936426471944&rtpof=true&sd=true)
+Visualizar en el siguiente [link](https://docs.google.com/document/d/17M_6_2UUYPKQN-GP6g0hWNSKgcLlwb39/edit?usp=sharing&ouid=108403985936426471944&rtpof=true&sd=true).
 
 
 ## **7. Plan de Respuesta ante Incidentes de Seguridad**
