@@ -48,13 +48,20 @@ Para proteger la identidad de los individuos en los análisis de ventas, los cor
 ### 5.3 Política de Privacidad
 La política de privacidad del sistema informa a los usuarios sobre las prácticas de seguridad y sus derechos respecto a sus datos personales. Incluye información sobre los procesos de gestión del consentimiento, el acceso a sus datos y el derecho a la eliminación de la cuenta.
 
+### 5.3 Privacidad Diferencial
+Se utilizó la distribución de Laplace para agregar ruido controlado a los datos sensibles como ventas semanales, garantizando la protección de la privacidad mientras se mantiene la utilidad de los datos para análisis agregados.
+**Ventas semanales**: Se agregaron perturbaciones para garantizar que no sea posible identificar las contribuciones de un vendedor específico.
+![Epsilon](myplot3.png)
+
+Se probaron diferentes valores de ε: 0.1, 0.5, 1, 2 y 5.
+
 ## **6. Consideraciones Éticas en el Proyecto**
-### **7.1 Transparencia y Consentimiento
+### **6.1 Transparencia y Consentimiento**
 El proyecto asegura que los vendedores sean plenamente informados sobre cómo se utilizarán sus datos, garantizando que den su consentimiento explícito antes de que se utilicen para análisis comerciales. Esto es fundamental para cumplir con los principios de transparencia y respeto por la privacidad de los usuarios.
 
-### **7.2 Sesgo Algorítmico**
+### **6.2 Sesgo Algorítmico**
 Es necesario tener en cuenta los posibles sesgos algorítmicos que puedan surgir al analizar los datos de ventas. Estos sesgos podrían ser causados por la ubicación, el rol o incluso por la edad de los vendedores, lo que afectaría la equidad en los resultados obtenidos. Un análisis de sesgo en los datos es fundamental para garantizar que los resultados sean representativos y no favorezcan a ciertos grupos sobre otros.
-#### **7.2.1 Distribución de Ventas por Ubicación de Tienda**
+#### **6.2.1 Distribución de Ventas por Ubicación de Tienda**
 En el análisis de ventas por ubicación, se observa que algunas tiendas venden más que otras. Este tipo de sesgo geográfico es común en sistemas comerciales y podría deberse a factores externos como el tráfico de clientes, la ubicación de las tiendas o la demanda del mercado en esas áreas.
 
 **Posibles razones:**
@@ -63,7 +70,7 @@ En el análisis de ventas por ubicación, se observa que algunas tiendas venden 
 - La competencia o popularidad de las marcas o productos puede ser diferente en cada región, lo que impacta directamente en las ventas.
 ![Distribución de Ventas por Ubicación de Tienda](myplot1.png)
 
-#### **7.2.2 Distribución de Ventas por Rol (Supervisor vs Vendedor)**
+#### **6.2.2 Distribución de Ventas por Rol (Supervisor vs Vendedor)**
 En el análisis de ventas por rol, no se observan diferencias significativas entre las ventas de supervisores y vendedores. Ambos grupos parecen tener un rendimiento similar en términos de ventas semanales, lo que sugiere que el rol no influye significativamente en el desempeño de ventas.
 
 **Posibles razones:**
@@ -73,7 +80,7 @@ En el análisis de ventas por rol, no se observan diferencias significativas ent
 
 ![Distribución de Ventas por Rol](myplot.png)
 
-#### **7.2.3 Distribución de Ventas por Edad del Vendedor**
+#### **6.2.3 Distribución de Ventas por Edad del Vendedor**
 En el análisis de ventas por edad, no se encontró una correlación** significativa entre la edad del vendedor y las ventas semanales. Esto sugiere que no hay un sesgo de edad en el rendimiento de ventas, es decir, los vendedores de todas las edades parecen tener un desempeño similar.
 
 **Posibles razones:**
@@ -85,8 +92,12 @@ En el análisis de ventas por edad, no se encontró una correlación** significa
 
 
 
-### **7.3 Reflexión sobre el Uso de la Privacidad Diferencial**
+### **6.3 Reflexión sobre el Uso de la Privacidad Diferencial**
 El uso de privacidad diferencial en este proyecto es una estrategia ética para proteger la identidad de los vendedores mientras se obtiene información útil para la toma de decisiones. La privacidad diferencial asegura que se pueda analizar el comportamiento comercial sin comprometer la privacidad individual. No obstante, la implementación de ε (epsilon) debe ser cuidadosamente ajustada para balancear precisión y privacidad sin sacrificar la utilidad de los datos.
+
+### **6.4 DPIA**
+Visualizar en el siguiente link: [link](https://docs.google.com/document/d/17M_6_2UUYPKQN-GP6g0hWNSKgcLlwb39/edit?usp=sharing&ouid=108403985936426471944&rtpof=true&sd=true)
+
 
 ## **7. Plan de Respuesta ante Incidentes de Seguridad**
 
@@ -112,4 +123,15 @@ Implementar registros de auditoría detallados para monitorear las actividades d
 Se recomienda un programa de capacitación para los usuarios con acceso al sistema, donde se refuercen prácticas de seguridad, como el uso de contraseñas fuertes y la identificación de intentos de phishing.
 
 ## 9. Conclusión
-En esta fase del sistema de ventas, se han implementado medidas clave para garantizar la seguridad y privacidad de los datos, incluyendo la autenticación de dos factores y el control de acceso basado en roles. Estas prácticas fortalecen la protección de la información, asegurando un entorno seguro para la gestión de ventas y cumpliendo con las mejores prácticas de seguridad de datos.
+
+1. **Seguridad**: Medidas como 2FA, encriptación y control de acceso por roles protegen eficazmente los datos sensibles.
+
+2. **Privacidad Diferencial**: La adición de ruido asegura la protección de identidades sin comprometer la utilidad de los datos, balanceando privacidad y análisis.
+
+3. **Sesgo**: El sesgo geográfico requiere ajustes en los análisis; no se detectaron sesgos por rol o edad.
+
+4. **Ética**: La transparencia, el consentimiento informado y la mitigación de sesgos garantizan un manejo justo de los datos.
+
+5. **Respuesta a Incidentes**: Preparación efectiva ante brechas, con monitoreo y recuperación de datos.
+
+6. **Futuro**: Implementar encriptación avanzada, auditorías y capacitación en seguridad.
