@@ -124,14 +124,16 @@ Se recomienda un programa de capacitación para los usuarios con acceso al siste
 
 ## 9. Conclusión
 
-1. **Seguridad**: Medidas como 2FA, encriptación y control de acceso por roles protegen eficazmente los datos sensibles.
+1. **Seguridad**: Estrategias como 2FA y encriptación subrayan la importancia de adaptar continuamente las medidas de protección.
 
 2. **Privacidad Diferencial**: La adición de ruido asegura la protección de identidades sin comprometer la utilidad de los datos, balanceando privacidad y análisis.
 
 3. **Sesgo**: El sesgo geográfico requiere ajustes en los análisis; no se detectaron sesgos por rol o edad.
 
 4. **Ética**: La transparencia, el consentimiento informado y la mitigación de sesgos garantizan un manejo justo de los datos.
+   
+5. **Transparencia**: El consentimiento informado y la comunicación clara refuerzan la confianza y el respeto hacia los usuarios.
 
-5. **Respuesta a Incidentes**: Preparación efectiva ante brechas, con monitoreo y recuperación de datos.
+6. **Respuesta a Incidentes**: Preparación efectiva ante brechas, con monitoreo y recuperación de datos.
 
-6. **Futuro**: Implementar encriptación avanzada, auditorías y capacitación en seguridad.
+7. **Futuro**: Implementar encriptación avanzada, auditorías y capacitación en seguridad.
